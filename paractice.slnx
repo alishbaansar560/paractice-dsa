@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="paractice/paractice.vcxproj" Id="8e064c83-d06f-43d8-a646-8ae6443b8bf2" />
+</Solution>
